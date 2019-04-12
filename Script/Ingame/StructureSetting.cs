@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary> 네비게이션 메쉬를 만드는데에 방해되는 지상의 오브젝트들을, 메쉬가 생성된 후에 활성화해주는 스크립트. </summary>
+/// <summary> 
+/// 네비게이션 메쉬를 만드는데에 방해되는 지상의 오브젝트들을, 메쉬가 생성된 후에 활성화해주는 스크립트. 
+/// </summary>
 public class StructureSetting : MonoBehaviour
 {
     public static StructureSetting instance

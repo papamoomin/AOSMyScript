@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary> 와드 내부 스크립트 </summary>
+/// <summary> 
+/// 와드 내부 스크립트 
+/// </summary>
 public class Ward : MonoBehaviour
 {
     public string team = "";

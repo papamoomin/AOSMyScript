@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary> 부쉬에 들어갔을 때 아군과 적팀을 구분하고, 시야의 유무를 판단하는 스크립트. </summary>
+/// <summary> 
+/// 부쉬에 들어갔을 때 아군과 적팀을 구분하고, 시야의 유무를 판단하는 스크립트. 
+/// </summary>
 public class BushJoinScript : MonoBehaviour
 {
     private List<GameObject> playerTeamList = new List<GameObject>();

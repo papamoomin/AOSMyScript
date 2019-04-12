@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// 타워 개체를 제어하는 스크립트
+/// </summary>
 public class TowerBehaviour : MonoBehaviour
 {
     public StatClass.Stat towerStat;

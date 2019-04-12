@@ -6,6 +6,9 @@ using UnityEngine.SceneManagement;
 using System.Collections.Generic;
 using System;
 
+/// <summary>
+/// 챔피언 개체를 제어하는 스크립트
+/// </summary>
 public class ChampionBehavior : Photon.PunBehaviour
 {
     public ChampionData myChampionData = null;

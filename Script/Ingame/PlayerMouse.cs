@@ -4,7 +4,9 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-/// <summary> 마우스, 키보드 등을 이용한 플레이어의 입력 담당 스크립트 </summary>
+/// <summary> 
+/// 마우스, 키보드 등을 이용한 플레이어의 입력 담당 스크립트 
+/// </summary>
 public class PlayerMouse : MonoBehaviour
 {
     public ChampionAtk myChampAtk;
